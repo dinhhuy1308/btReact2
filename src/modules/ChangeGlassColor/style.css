@@ -1,0 +1,23 @@
+.card {
+    width: 300px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.glass-img {
+    position: absolute;
+    width: 200px;
+    top: 83px;
+    right: 51px;
+}
+
+
+
+
+
+
+
+
+
+
